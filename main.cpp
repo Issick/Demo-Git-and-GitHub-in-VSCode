@@ -10,5 +10,6 @@ int main() {
     std::cout << "Welcome to Programming Advices!\n" << std::endl;
     std::cout << "Welcome to the C++ Course!\n" << std::endl;
     std::cout << "Changes synchronized successfully!\n" << std::endl;
+    
     return 0;
 }
