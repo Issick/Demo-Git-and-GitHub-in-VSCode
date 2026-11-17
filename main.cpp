@@ -6,6 +6,6 @@ int Add(int number1, int number2)
 }
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    std::cout << "Welcome to Programming Advices!\n" << std::endl;
     return 0;
 }
